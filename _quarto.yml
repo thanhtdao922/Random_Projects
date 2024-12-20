@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thanh Dao: Random Projects"
+  description:
+    Random projects to build an online R portfolio
+  site-url: "https://thanhtdao922.github.io/Random_Projects/"
+  navbar:
+    background: primary
+    search: false
+    
+format:
+  html:
+    theme: lux
+    toc: false

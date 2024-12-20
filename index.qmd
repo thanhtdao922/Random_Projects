@@ -1,0 +1,56 @@
+---
+title: "General Overview"
+---
+
+Author: Thanh Dao\
+Last Updated: December 19th, 2024
+
+# About Me
+
+Hello! My name is Thanh Dao, and I am currently a [MS Business Analytics](https://zicklin.baruch.cuny.edu/academic-programs/graduate/ms/masters-in-business-analytics/) student at [CUNY Baruch](https://www.baruch.cuny.edu/) in NYC. I previously graduated from [Adelphi University](https://www.adelphi.edu/) in May of 2024 with a BBA in Business Administration and Management, and from [the Bronx High School of Science](https://www.bxscience.edu/) in June of 2020.
+
+![Me!](headshot.jpg)
+
+I'm a native New Yorker based in [Astoria, Queens](https://en.wikipedia.org/wiki/Astoria,_Queens) (Fun fact: did you know that [Astoria Park](https://en.wikipedia.org/wiki/Astoria_Park) was the former site of the 1936 and 1964 US Olympic trials?), but I also have a dual citizenship with [Australia](https://en.wikipedia.org/wiki/Australia).
+
+![Astoria Park](astoriapark.jpg)
+
+## Professional Experience
+
+I am currently an Administrative Manager at [Bao by Kaya](https://www.baobykaya.com/), a Taiwanese eatery found in UrbanSpaces across Manhattan. My main responsibilities include the following:
+
+-   Automating monthly expense reports to consolidate 140 expense sheets monthly, saving 300 hours yearly for upper management
+-   Developing relationships with 15 third-party suppliers, resulting in \$6,000 in yearly cost-savings for the distribution department
+-   Overseeing front-of-house operations for 5 locations, including training and managing a team of 30 employees
+
+I am also a Human Resources Assistant there, where I process payroll through reviewing time sheets and addressing discrepancies.
+
+![Our signature pork belly bao](porkbellybao.png)
+
+## Hobbies
+
+In my free time, I volunteer at [Astoria Cat Rescue](https://astoriacatrescue.com/), a non-profit organization that helps feed, house, and support the cat population in and around Astoria. There, I help prepare food for cats that are homeless, feral, or abandoned, and socialize the rescued cats to help them get used to humans and find their forever homes.
+
+![One of the rescued cats!](kitten.jpg)
+
+I also like to do arts and crafts; mainly, I decorate top loaders, draw, or create collages. You can find my art Instagram [here](https://www.instagram.com/moarose922/). I also dabble in knitting and crochet, but I mainly stick to hats and scarves.
+
+![One of the top loaders I've decorated](toploader_deco.png)
+
+# Purpose
+
+The purpose of this page is to create an online portfolio to showcase my `R` capabilities. I will pursue different projects here, delving into topics that interest me while utilizing different data analytics skills that I've developed.
+
+I previously created a different [repository](https://github.com/thanhtdao922/STA9750-2024-FALL) for STA 9750, an introductory R class offered at Baruch. My projects will be listed here:
+
+-   Mini-Project #1: Examining the Fiscal Characteristics of Major US Public Transit Systems ([click here](https://thanhtdao922.github.io/STA9750-2024-FALL/mp01.html))
+-   Mini-Project #2: Business of Show Business ([click here](https://thanhtdao922.github.io/STA9750-2024-FALL/mp02.html))
+-   Mini-Project #3: Exploring the Effect of State-Level Electoral College Vote Allocation on Presidential Elections ([click here](https://thanhtdao922.github.io/STA9750-2024-FALL/mp03.html))
+-   Mini-Project #4: Monte Carlo-Informed Selection of CUNY Retirement Plans ([click here](https://thanhtdao922.github.io/STA9750-2024-FALL/mp04.html))
+-   Course Final Individual Report: Examining the effect of NYC DOH Programs on the Rat Population in NYC ([click here](https://thanhtdao922.github.io/STA9750-2024-FALL/individual_report.html))
+
+# Connect With Me!
+
+You can find me on LinkedIn [here](https://www.linkedin.com/in/thanht-dao/); feel free to connect with me or send me a message!
+
+You can also email me at daothanht922\@gmail.com.
